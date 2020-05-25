@@ -15,8 +15,8 @@ s = plural_seconds(15)
 print(s) # 15 секунд
 ```
 
-## Author
+## Автор
 Blazzerrr
 
-You can contact me at Telegram
+Связаться со мной можно в Telegram
 [@blazzzerrr](https://t.me/blazzzerrr) 
